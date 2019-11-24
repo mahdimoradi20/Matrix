@@ -4,6 +4,8 @@ then use matrix datatype in this format:
 
 for exmple:
 
+
+#include "matrix.cpp"
 int main()
 {
 	Matrix m1(4,5);
