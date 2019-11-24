@@ -2,7 +2,7 @@ include matrix.cpp
 
 then use matrix datatype in this format:
 
-for exmple:
+for example:
 
 
 #include "matrix.cpp"
